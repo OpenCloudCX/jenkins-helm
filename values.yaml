@@ -222,6 +222,10 @@ controller:
     - workflow-aggregator:2.6
     - git:4.7.1
     - configuration-as-code:1.51
+    - docker-commons:1.17
+    - docker-workflow:1.26
+    - docker-build-step:2.8
+    - ws-cleanup:0.39
 
   # Set to false to download the minimum required version of all dependencies.
   installLatestPlugins: false
