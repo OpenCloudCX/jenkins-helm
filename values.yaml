@@ -226,6 +226,13 @@ controller:
     - docker-workflow:1.26
     - docker-build-step:2.8
     - ws-cleanup:0.39
+    - workflow-cps:2.93
+    - pipeline-rest-api:2.19
+    - workflow-cps-global-lib:2.21
+    - pipeline-model-extensions:1.9.1
+    - junit:1.52
+    - matrix-project:1.19
+    - lockable-resources:2.11
 
   # Set to false to download the minimum required version of all dependencies.
   installLatestPlugins: false
