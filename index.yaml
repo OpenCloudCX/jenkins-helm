@@ -7,6 +7,6 @@ entries:
     name: jenkins
     type: application
     urls:
-    - https://opencloudcx.github.io/jenkins-helm/jenkins-ajn-1.0.0.tgz
+    - https://opencloudcx.github.io/jenkins-helm/jenkins-ajn-3.5.9.tgz
     version: 1.0.0
 generated: "2020-11-13T14:01:44.631668894-05:00"
